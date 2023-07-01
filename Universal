@@ -3,16 +3,16 @@
         Notify UI [Open Source]
 
 --]]---------------------------------------------------
-local Credits  = "ThroughTheFireAndFlames#9925"
+-- local Credits  = "ThroughTheFireAndFlames#9925"
 
 -- getgenv().WaitTime = 1.5 -- Time to wait until disappearance of the UI
 
 repeat task.wait() until game:IsLoaded()
-if not Credits then
-    NotifyX("FUCK OFF"); -- ;)
-    wait(0.25);
-    game:Shutdown(); -- :>
-end
+-- if not Credits then
+    -- NotifyX("FUCK OFF"); -- ;)
+    -- wait(0.25);
+    -- game:Shutdown(); -- :>
+-- end
 
 getgenv().NotifyX = function(Txt) -- LoaderX
 
