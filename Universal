@@ -3,7 +3,7 @@
         Notify UI [Open Source]
 
 --]]---------------------------------------------------
--- local Credits  = "ThroughTheFireAndFlames#9925"
+local Credits  = "ThroughTheFireAndFlames#9925"
 
 -- getgenv().WaitTime = 1.5 -- Time to wait until disappearance of the UI
 
