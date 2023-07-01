@@ -7,6 +7,7 @@ local Credits  = "ThroughTheFireAndFlames#9925"
 
 -- getgenv().WaitTime = 1.5 -- Time to wait until disappearance of the UI
 
+repeat task.wait() until game:IsLoaded()
 if not Credits then
     NotifyX("FUCK OFF"); -- ;)
     wait(0.25);
